@@ -10,4 +10,4 @@ This is a serial bridge for programming custom ESP32 boards, with auto-reset fea
 - CP2104 enabled USB-to-UART Bridge
 - 3.3V ~ 600mA regulator
 - Auto-reset circuit
-- Boot and Reset buttons
+- Boot and Reset buttons.
