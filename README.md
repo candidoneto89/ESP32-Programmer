@@ -41,9 +41,9 @@ This is a serial bridge for programming custom ESP32 boards, with auto-reset fea
 ## Assembly partlist:
 
 ### FDM case:
-- 4x M2 3mmx3mm heat inserts
+- 4x M2 3mmx3mm threaded inserts
 - 4x M2 5mm Hex Socket Cap Screw (or similar)
 
 ### Stacked acrylic case:
-- 8x M2 3mmx3mm heat inserts
+- 8x M2 3mmx3mm threaded inserts
 - 8x M2 5mm Hex Socket Cap Screw (or similar)
